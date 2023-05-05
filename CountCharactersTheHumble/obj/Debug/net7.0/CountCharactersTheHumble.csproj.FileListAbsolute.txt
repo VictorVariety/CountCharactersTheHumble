@@ -1,0 +1,15 @@
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\bin\Debug\net7.0\CountCharactersTheHumble.exe
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\bin\Debug\net7.0\CountCharactersTheHumble.deps.json
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\bin\Debug\net7.0\CountCharactersTheHumble.runtimeconfig.json
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\bin\Debug\net7.0\CountCharactersTheHumble.dll
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\bin\Debug\net7.0\CountCharactersTheHumble.pdb
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.AssemblyInfo.cs
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.dll
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\refint\CountCharactersTheHumble.dll
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.pdb
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\CountCharactersTheHumble.genruntimeconfig.cache
+C:\Users\victo\Desktop\Virtual Studio\CountCharactersTheHumble\CountCharactersTheHumble\obj\Debug\net7.0\ref\CountCharactersTheHumble.dll
